@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siraj Saifi</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirajsaifi&label=Profile%20views&color=0e75b6&style=flat" alt="sirajsaifi" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Chat-App](https://github.com/sirajsaifi/Chat-App)
 
-- 🌱 I’m currently learning **socket.io**
+- 🌱 I’m currently learning **SQL**
 
-- 👯 I’m looking to collaborate on **projects related to MERN stack.**
+- 👯 I’m looking to for **jobs and internships related to Data Analyst & Business Analyst**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sirajsaifi](https://github.com/sirajsaifi)
 
-- 💬 Ask me about **reactjs, nodejs, expressjs and mongoDb**
+- 💬 Ask me about **Microsoft PowerBI, SQL, MySQL, MS Excel, Python, Tableau, Pandas, Numpu**
 
 - 📫 How to reach me **https://www.linkedin.com/in/siraj-saifi**
 
