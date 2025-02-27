@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/sirajsaifi21" target="blank"><img src="https://img.shields.io/twitter/follow/sirajsaifi21?logo=twitter&style=for-the-badge" alt="sirajsaifi21" /></a> </p>
 
-- 🔭 I’m currently working on [Chat-App](https://github.com/sirajsaifi/Chat-App)
+- 🔭 I’m currently working on Tableau
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Pandas**
 
 - 👯 I’m looking to for **jobs and internships related to Data Analyst & Business Analyst**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sirajsaifi](https://github.com/sirajsaifi)
 
-- 💬 Ask me about **Microsoft PowerBI, SQL, MySQL, MS Excel, Python, Tableau, Pandas, Numpu**
+- 💬 Ask me about **Microsoft PowerBI, SQL, MySQL, MS Excel, Python, Tableau, Pandas, Numpy**
 
 - 📫 How to reach me **https://www.linkedin.com/in/siraj-saifi**
 
