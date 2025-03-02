@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sirajsaifi21" target="blank"><img src="https://img.shields.io/twitter/follow/sirajsaifi21?logo=twitter&style=for-the-badge" alt="sirajsaifi21" /></a> </p>
 
-- 🔭 I’m currently working on Tableau
+- 🔭 I’m currently working on
 
 - 🌱 I’m currently learning **Pandas**
 
